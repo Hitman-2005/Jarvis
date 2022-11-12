@@ -1,0 +1,16 @@
+[#] Music Section:
+[#] It will open Youtube on Google Chrome Browser, without Chrome it will not work
+ 0. Strawberries and Cigarettes (command is "play strawberry") Link = https://www.youtube.com/watch?v=Mw5mAozjC6M
+ 1. Jin Astronaut (command is "play jin astronaut") Link = https://www.youtube.com/watch?v=c6ASQOwKkhk
+
+[#] Opening Specific Website
+[#] It will open Youtube on Google Chrome Browser, without Chrome it will not work
+ 0. Open My Youtube Channel HitmanGaming (command is "open my youtube channel")
+ 1. youtube.com (command is "open youtube")
+ 2. twitter.com (command is "open twitter")
+ 3. facebook.com (command is "open facebook")
+ 4. instagram.com (command is "open insta")
+ 4. google.com (command is "open google")
+
+[#] Current time
+ 0. current time (command is "what time is it now")
